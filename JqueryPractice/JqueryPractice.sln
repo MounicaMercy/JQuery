@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "J19092018", "J19092018\J19092018.csproj", "{0069FFE5-C16B-43B7-986F-29D2D0E34BDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "J18092018", "J18092018\J18092018.csproj", "{D1F6674E-1AD6-4601-88E5-C61D0CB7DE35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "J20092018", "J20092018\J20092018.csproj", "{6C8378F8-21C0-4A93-975B-F703B3AF94E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0069FFE5-C16B-43B7-986F-29D2D0E34BDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0069FFE5-C16B-43B7-986F-29D2D0E34BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0069FFE5-C16B-43B7-986F-29D2D0E34BDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0069FFE5-C16B-43B7-986F-29D2D0E34BDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1F6674E-1AD6-4601-88E5-C61D0CB7DE35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1F6674E-1AD6-4601-88E5-C61D0CB7DE35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1F6674E-1AD6-4601-88E5-C61D0CB7DE35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1F6674E-1AD6-4601-88E5-C61D0CB7DE35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C8378F8-21C0-4A93-975B-F703B3AF94E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C8378F8-21C0-4A93-975B-F703B3AF94E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C8378F8-21C0-4A93-975B-F703B3AF94E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C8378F8-21C0-4A93-975B-F703B3AF94E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D98C5CBD-C132-4731-B9A0-2F53DECAFED6}
+	EndGlobalSection
+EndGlobal
